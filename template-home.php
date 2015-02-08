@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Home Main 
+ * Template Name: Home Main
  *
  */
 
@@ -19,18 +19,21 @@ get_header(); ?>
   <div class="container">
     <?php get_sidebar( 'homeintroblock' ); ?>
   </div>
-  <!-- container ends here --> 
+  <!-- container ends here -->
 </div>
-<!-- introblock ends here --> 
+<!-- introblock ends here -->
 
 <!--Our Program ==================================================
 ================================================== -->
+<?php /******
+// HIDE PROGRAMS FROM THIS TEMPLATE
+
 <div class="programblock">
   <div class="container program">
     <?php
-$args = array( 
-				'post_type' => 'childrenprograms', 
-				'posts_per_page' => '3', 		
+$args = array(
+				'post_type' => 'childrenprograms',
+				'posts_per_page' => '3',
 			);
 $wpchildrenprograms = new WP_Query( $args );
 
@@ -42,10 +45,10 @@ if ($wpchildrenprograms->have_posts()) : while ( $wpchildrenprograms->have_posts
           <?php the_title(); ?>
           </a></h3>
           <div class="circleimage">
-            <?php 
+            <?php
 		if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
 		  the_post_thumbnail();
-		} 
+		}
        ?>
           </div>
       </div>
@@ -61,14 +64,17 @@ endwhile;
 else :
 ?>
     <?php
- 
+
 endif; // END the Wordpress Loop
 wp_reset_query(); // Reset the Query Loop
 ?>
   </div>
-  <!-- end container --> 
+  <!-- end container -->
 </div>
-<!-- end programblock --> 
+<!-- end programblock -->
+
+// END HIDE PROGRAMS
+******/?>
 
 <!-- News ==================================================
 ================================================== -->
@@ -114,10 +120,10 @@ wp_reset_query(); // Reset the Query Loop
           <article>
             <div class="blog-post-inner">
               <div class="blog-post-thumb"> <a href="<?php the_permalink() ?>">
-                <?php 
+                <?php
 		if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned to it.
 		  the_post_thumbnail();
-		} 
+		}
        ?>
                 </a></div>
               <!-- .blog-post-thumb -->
@@ -147,18 +153,18 @@ echo trim($output, $separator);
 }
 ?>
                 </div>
-                <!-- .blog-post-category --> 
+                <!-- .blog-post-category -->
               </div>
-              <!-- .blog-post-main --> 
-              
+              <!-- .blog-post-main -->
+
             </div>
           </article>
         </div>
         <?php endwhile; ?>
       </div>
     </div>
-    <!--end two_third--> 
-    
+    <!--end two_third-->
+
   </div>
 </div>
 <?php get_footer(); ?>
