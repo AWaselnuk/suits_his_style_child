@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 4 Children WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-23 10:22+0100\n"
+"PO-Revision-Date: 2013-11-23 10:22+0100\n"
+"Last-Translator: Ana <redroses7@gmail.com>\n"
+"Language-Team: Anariel Design\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../WP4childrenwithlove/category.php:19
+msgid "&lt; Older posts"
+msgstr ""
+
+#: ../WP4childrenwithlove/category.php:22
+msgid "Newer posts &gt;"
+msgstr ""
+
+#: ../WP4childrenwithlove/comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../WP4childrenwithlove/comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../WP4childrenwithlove/comments.php:58
+msgid "<p class=\"comment-notes\">Required fields are marked <span class=\"required\">*</span>.</p>"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-aside.php:4
+#: ../WP4childrenwithlove/content-audio.php:4
+#: ../WP4childrenwithlove/content-gallery.php:11
+#: ../WP4childrenwithlove/content-link.php:4
+#: ../WP4childrenwithlove/content-ourevents.php:33
+#: ../WP4childrenwithlove/content-quote.php:4
+msgid "Read More"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-aside.php:5
+#: ../WP4childrenwithlove/content-audio.php:5
+#: ../WP4childrenwithlove/content-gallery.php:12
+#: ../WP4childrenwithlove/content-image.php:58
+#: ../WP4childrenwithlove/content-ourevents.php:34
+#: ../WP4childrenwithlove/content-page.php:5
+#: ../WP4childrenwithlove/content-quote.php:5
+#: ../WP4childrenwithlove/content-search.php:23
+#: ../WP4childrenwithlove/content-single.php:33
+#: ../WP4childrenwithlove/content-singleimage.php:37
+msgid "Pages:"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-gallery.php:16
+#: ../WP4childrenwithlove/content-search.php:28
+#: ../WP4childrenwithlove/content-single.php:38
+#, php-format
+msgid "Categories: %2$s"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-gallery.php:20
+#: ../WP4childrenwithlove/content-search.php:32
+#: ../WP4childrenwithlove/content-single.php:42
+#, php-format
+msgid "Tags: %2$s"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-gallery.php:25
+#: ../WP4childrenwithlove/content-search.php:37
+#: ../WP4childrenwithlove/content-single.php:47
+msgid "Edit"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-home.php:3
+#: ../WP4childrenwithlove/content-page.php:3
+#: ../WP4childrenwithlove/content-search.php:22
+#: ../WP4childrenwithlove/content-single.php:31
+msgid "Continue Reading"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-image.php:35
+#: ../WP4childrenwithlove/content-image.php:40
+#: ../WP4childrenwithlove/content-image.php:53
+#: ../WP4childrenwithlove/content-singleimage.php:14
+#: ../WP4childrenwithlove/content-singleimage.php:19
+#: ../WP4childrenwithlove/content-singleimage.php:32
+msgid "More"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-single.php:21
+msgid "0 comments"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-single.php:21
+msgid "1 Comment"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-single.php:21
+msgid "% Comments"
+msgstr ""
+
+#: ../WP4childrenwithlove/content-single.php:55
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:75
+msgid "Top Bar - Call to Action Buttons"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:77
+msgid "We used this sidebar for call to action buttons"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:84
+msgid "Top Bar - Social Icons"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:86
+msgid "We used this sidebar for social icons"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:93
+msgid "Home All Versions - Main Slider"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:95
+msgid "We used this sidebar for homepage slider"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:102
+msgid "Home All Versions - Intro Block"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:104
+msgid "We used this sidebar for intro block (content under the main slider)"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:111
+msgid "Home Version Two - Programs Intro Block"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:113
+msgid "We used this sidebar for intro block aboove three columns of programs"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:120
+msgid "Home Version Three Sidebar"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:128
+msgid "Footer-First Column"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:130
+msgid "We used this sidebar for footer first column content"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:137
+msgid "Footer-Second Column"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:139
+msgid "We used this sidebar for footer second column content"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:146
+msgid "Footer-Third Column"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:148
+msgid "We used this sidebar for footer third column content"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:155
+msgid "Footer-Fourth Column"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:157
+msgid "We used this sidebar for footer fourth column content"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:164
+msgid "Second Footer-Left Column"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:166
+msgid "We used this sidebar for the footer menu"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:173
+msgid "Second Footer-Right Column"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:175
+msgid "We used this sidebar for the footer terms and privacy"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:182
+msgid "Programs Sidebar"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:190
+msgid "Get Involved Sidebar"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:198
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:206
+msgid "Contact Sidebar"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:256
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:287
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:315
+msgid "Header Image"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:321
+msgid "Header Image One"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:327
+msgid "Header Image Two"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:333
+msgid "Header Image Three"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:339
+msgid "Header Image 4"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:345
+msgid "Header Image Five"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:395
+msgid "Continue reading"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:447
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:451
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:476
+msgid "(Edit)"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:498
+msgid "Search"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:528
+#: ../WP4childrenwithlove/functions.php:534
+msgid "Logo"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:545
+#: ../WP4childrenwithlove/functions.php:551
+msgid "Favicon"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:565
+msgid "Change color of the elements with color value #f14332"
+msgstr ""
+
+#: ../WP4childrenwithlove/functions.php:598
+msgid "Change color of the elements with color value #e7eaee (portfolio items background color)"
+msgstr ""
+
+#: ../WP4childrenwithlove/index.php:13
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../WP4childrenwithlove/index.php:16
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../WP4childrenwithlove/single-ourevents.php:11
+#: ../WP4childrenwithlove/single.php:20
+msgid "&lt  Previous Post"
+msgstr ""
+
+#: ../WP4childrenwithlove/single-ourevents.php:14
+#: ../WP4childrenwithlove/single.php:23
+msgid "Next Post &gt;"
+msgstr ""
+
+#: ../WP4childrenwithlove/template-about.php:71
+msgid "Read more"
+msgstr ""
+
+#: ../WP4childrenwithlove/template-faq.php:91
+#: ../WP4childrenwithlove/template-getinvolved.php:96
+#: ../WP4childrenwithlove/template-programs.php:96
+msgid "&lang;"
+msgstr ""
+
+#: ../WP4childrenwithlove/template-faq.php:92
+#: ../WP4childrenwithlove/template-getinvolved.php:97
+#: ../WP4childrenwithlove/template-programs.php:97
+msgid "&rang;"
+msgstr ""
+
+#: ../WP4childrenwithlove/template-getinvolved.php:60
+msgid "Involve now"
+msgstr ""
+
+#: ../WP4childrenwithlove/template-home.php:89
+#: ../WP4childrenwithlove/template-homefive.php:29
+#: ../WP4childrenwithlove/template-homeone.php:83
+#: ../WP4childrenwithlove/template-hometwo.php:38
+msgid "More Details"
+msgstr ""
+
+#: ../WP4childrenwithlove/template-home.php:132
+#: ../WP4childrenwithlove/template-homefive.php:80
+#: ../WP4childrenwithlove/template-homeone.php:126
+#: ../WP4childrenwithlove/template-hometwo.php:81
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/aboutbutton.php:31
+msgid "Button Widget - add button under the sponsors block on about page"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/aboutbutton.php:37
+msgid "Anariel Button Widget"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/aboutleftcolumn.php:31
+msgid "Left Column Widget - Left Column Text - add top left column text"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/aboutleftcolumn.php:37
+msgid "Anariel Left Column Text Widget"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/aboutrightcolumn.php:31
+msgid "Right column Widget - Right Column Text"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/aboutrightcolumn.php:37
+msgid "Anariel Right Column Text Widget"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/aboutsponsorstext.php:31
+msgid "Sponsors Text Widget - Sponsors Text Block - add sposors text"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/aboutsponsorstext.php:37
+msgid "Anariel-Sponsors Text Widget"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/calltoaction.php:31
+msgid "Call to action buttons - buttons on the top blue bar"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/calltoaction.php:37
+msgid "Anariel-Call to Action Buttons"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/footerabout.php:31
+msgid "Footer Widget - About Organization - write something about your organization"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/footerabout.php:37
+msgid "Anariel-Footer About Organization Widget"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/footercontactinfo.php:31
+msgid "Footer Widget - Contact Info - add your contact info"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/footercontactinfo.php:37
+msgid "Anariel-Footer Contact Info Widget"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/homechildrenimg.php:31
+msgid "Image with button Widget - Children and Team Image with title button used on home, about and langin pages"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/homechildrenimg.php:37
+msgid "Anariel-Image with Button"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/homeintroblock.php:31
+msgid "Intro Widget - Intro Block - place to add your intro content located under the slider on the home page and used on landing pages"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/homeintroblock.php:37
+msgid "Anariel-Intro Block Widget"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/homequote.php:31
+msgid "Quote Widget - We used this quote on the home page under the latest news block"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/homequote.php:37
+msgid "Anariel-Quote Widget"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/homesponsorstext.php:31
+msgid "Sponsors Text Block - place to add sposors text (we used this widget on home and about pages)"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/socials.php:31
+msgid "Social Icons Widget - 5 social icons"
+msgstr ""
+
+#: ../WP4childrenwithlove/widgets/socials.php:37
+msgid "Anariel-Social Icons Widget"
+msgstr ""
+
